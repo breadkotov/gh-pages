@@ -1,0 +1,7 @@
+a{text-decoration:none}
+html,body{margin:0;height:100%;background-color:#5abf35;font-family:'Montserrat',sans-serif}
+.call{display:flex;justify-content:center;height:84px;width:100%;background:#5abf35;animation-delay:.5s;-ms-animation-delay:.5s;-moz-animation-delay:.5s;-webkit-animation-delay:.5s;-o-animation-delay:.5s}
+.call-logo-circle{height:60px;width:60px;margin-left:0;margin-top:12px;background:#fff;border-radius:50%}
+.call-logo{height:48px;width:48px;margin:12px;background:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNiIgaGVpZ2h0PSIzNiIgdmlld0JveD0iMCAwIDQ4IDQ4Ij48cGF0aCBkPSJNMCAwaDQ4djQ4SDB6IiBmaWxsPSIjZmZmIi8+PHBhdGggZD0iTTEzLjI1IDIxLjU5YzIuODggNS42NiA3LjUxIDEwLjI5IDEzLjE4IDEzLjE3bDQuNC00LjQxYy41NS0uNTUgMS4zNC0uNzEgMi4wMy0uNDlDMzUuMSAzMC42IDM3LjUxIDMxIDQwIDMxYzEuMTEgMCAyIC44OSAyIDJ2N2MwIDEuMTEtLjg5IDItMiAyQzIxLjIyIDQyIDYgMjYuNzggNiA4YzAtMS4xMS45LTIgMi0yaDdjMS4xMSAwIDIgLjg5IDIgMiAwIDIuNDkuNCA0LjkgMS4xNCA3LjE0LjIyLjY5LjA2IDEuNDgtLjQ5IDIuMDNsLTQuNCA0LjQyeiIgZmlsbD0iIzVhYmYzNSIvPjwvc3ZnPg==) no-repeat}
+.call-text{height:48px;margin-top:24px;margin-left:12px;color:#fff;font-size:28px;font-weight:bold}
+.container{height:100%;padding:0;margin:0;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;align-items:center;justify-content:center}
